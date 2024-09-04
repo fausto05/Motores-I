@@ -1,2 +1,4 @@
 # Motores-I
- Materia motores gráficos 
+ Materia motores gráficos
+
+Profesor: Gregorio 
