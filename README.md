@@ -1,4 +1,4 @@
 # Motores-I
  Materia motores gráficos
 
-Profesor: Gregorio 
+Profesor: Gregorio D´Angelo
