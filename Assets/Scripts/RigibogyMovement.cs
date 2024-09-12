@@ -55,14 +55,14 @@ public class RigibogyMovement : MonoBehaviour
         {
             Debug.Log ("KILL MEEEE");
 
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(2);
         }
 
         if (collision.gameObject.CompareTag("Goal"))
         {
             Debug.Log("Ganaste, felicitaciones");
 
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
 
         if (collision.gameObject.CompareTag("Coin"))
